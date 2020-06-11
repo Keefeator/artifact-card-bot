@@ -1,5 +1,4 @@
 keywords = {
-    'Regeneration': "The unit heals this amount during the combat phase. Regeneration is applied before checking for death.",
     'After Combat': "An effect that triggers after the Combat Phase.",
     'Aura': "An effect which applies to units when they enter a specified area and is removed when they leave.",
     'Bounce': "Return target to owners fountain if it's a hero, or the hand if it's a creep or item.",
@@ -29,6 +28,7 @@ keywords = {
     'Quickcast': "After you play this, you get the initiative coin and may immediately take another action. If you use this action to pass, you will retain initiative and may act first next round.",
     'Quickstrike': "Units with quickstrike attack before units without quickstrike. Regeneration and decay are applied at the same time as combat damage, after quickstrike damage resolves.",
     'Reflect': "When targeted or attacked, damage that would be done to this unit is instead dealt to the caster or attacker.",
+    'Regeneration': "The unit heals this amount during the combat phase. Regeneration is applied before checking for death.",
     'Retaliate': "When attacked during a battle (even outside of the combat phase), deal this much extra damage to the attackers.",
     'Rooted': "Can't be moved.",
     'Scheme': "An effect which triggers when the card's owner passes.",
@@ -36,8 +36,8 @@ keywords = {
     'Sneak Attack': "A unit deals its Attack damage to its target in a one-way battle. Combat attributes such as Armor, Retaliate, and Piercing are applied.",
     'Stun': "A stunned unit is silenced (cannot use any active abilities and cannot be used to play cards of its color) and disarmed (does not attack its target during battles). Lasts until the end of round by default.",
     'Swap': "Move a unit to the targeted slot. If that slot was occupied, the unit in that space move to the original unit's position.",
-    'Tower Enchantment': "A tower enchantment is a spell that adds a permanent effect to a tower or lane. Tower enchantments are not units and do not occupy combat positions.",
     'Taunt': "When a unit taunts all of its enemy neighbors change their combat target to that unit. Targets reset after each round.",
+    'Tower Enchantment': "A tower enchantment is a spell that adds a permanent effect to a tower or lane. Tower enchantments are not units and do not occupy combat positions.",
     'Trample': "This unit deals excess Attack damage to the tower when it battles in combat.",
     'Untargetable': "Can't be targeted by enemy spells of abilities."
 }
